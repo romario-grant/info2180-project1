@@ -1,1 +1,4 @@
-# info2180-project1
+# \# Info2180 Project 
+
+This is Project 1 for Romario Grant 
+
